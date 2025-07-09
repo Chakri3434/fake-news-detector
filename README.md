@@ -31,7 +31,7 @@ Deployed live using **Gradio** and **Hugging Face Spaces**.
 | `requirements.txt` | Dependencies for deployment |
 
 ## 📈 Results
-- Test Accuracy: ~93%
+- Test Accuracy: 98.85%
 - Lightweight model, suitable for fast inference
 
 ## 🙋‍♂️ Author
