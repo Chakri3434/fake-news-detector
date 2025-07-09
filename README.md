@@ -4,7 +4,7 @@ This project uses a deep learning model (LSTM) to classify news articles as **fa
 Deployed live using **Gradio** and **Hugging Face Spaces**.
 
 ## 🚀 Live Demo
-👉 [Try the App on Hugging Face](https://your-space-name.hf.space)
+👉 [Try the App on Hugging Face](https://huggingface.co/spaces/Chakri34/chakri-fake-news-detector)
 
 ## 📂 Dataset
 - [Fake and Real News Dataset - Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
@@ -35,6 +35,5 @@ Deployed live using **Gradio** and **Hugging Face Spaces**.
 - Lightweight model, suitable for fast inference
 
 ## 🙋‍♂️ Author
-- Chakradhar Kalla, IIT Bhubaneswar  
-- Connect on [LinkedIn](https://www.linkedin.com) | [Hugging Face](https://huggingface.co)
+- Chakradhar Kalla
 
