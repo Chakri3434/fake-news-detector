@@ -35,5 +35,6 @@ Deployed live using **Gradio** and **Hugging Face Spaces**.
 - Lightweight model, suitable for fast inference
 
 ## 🙋‍♂️ Author
-- Chakradhar Kalla
+Chakradhar Kalla
+📧 chakradharkalla124@gmail.com
 
